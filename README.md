@@ -20,3 +20,7 @@ In the PSG and ANN folders, the corresponding PSG file and ANN file must be in o
     	01-03-0003 Annotations.edf
     	01-03-0004 Annotations.edf
     	01-03-0005 Annotations.edf
+ 
+To use this script, please cite:
+
+	XXX	
