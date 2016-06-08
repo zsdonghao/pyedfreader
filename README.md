@@ -40,7 +40,7 @@ In the .mat file:
 	
 	signals:
 			a cell to store all channels, their corresponding channel name are listed in "label"
-	fs: sampling frequency of EEG
+	fs: sampling frequency of different channels
  
 To use this script, please cite:
 
